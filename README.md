@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am passionate about the best web and mobile development technologies. Studying about JavaScript, Html5 , ReactJS and React Native. I am a student of Bootcamp Pottencial at Dio.me and Alura, where I am learning in practice the most modern web and mobile development technologies.
+I am passionate about the best web and mobile development technologies. Studying about JavaScript, Html5 , ReactJS and React Native. I am a student of Rocketseat Explorer e Discover, where I am learning in practice the most modern web and mobile development technologies.
 
 <div align="center">
 <a href="https://github.com/alvsherberth">
